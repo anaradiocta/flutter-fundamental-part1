@@ -88,7 +88,7 @@ Di pojok kanan bawah akan tampil seperti gambar berikut. Klik "Add Remote"
 
 Salin tautan repository Anda dari browser ke bagian ini, lalu klik Add remote
 
-<img src="prak3333333333.JPG">
+<img src="prak33333333.JPG">
 
 Setelah berhasil, tulis remote name dengan "origin"
 
@@ -97,7 +97,7 @@ Setelah berhasil, tulis remote name dengan "origin"
 ## Langkah 9:
 Lakukan hal yang sama pada file README.md mulai dari Langkah 4. Setelah berhasil melakukan push, masukkan username GitHub Anda dan password berupa token yang telah dibuat (pengganti password konvensional ketika Anda login di browser GitHub). Reload halaman repository GitHub Anda, maka akan tampil hasil push kedua file tersebut seperti gambar berikut.
 
-<img src="prak33333333333.JPG">
+<img src="prak3333333333.JPG">
 
 
 ## Langkah 10:
